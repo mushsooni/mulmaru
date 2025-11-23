@@ -1,4 +1,4 @@
-**[한국어](/README.md)** | [English](/README_en.md)
+[한국어](/README.md) | **[English](/README_en.md)**
 
 # 물마루 | Mulmaru
 **Bold** yet _Smooth_ Korean Pixel Font
@@ -31,7 +31,7 @@ The Korean glyphs are primarily inspired by [Yoon px Arcade](https://font.co.kr/
 ![04_mono](images/04_mono.png)
 - **Mulmaru** is a proportional font, while **Mulmaru Mono** is monospaced.
 - Both fonts render best at **12px** (9pt) or multiples thereof.
-- The .pfp file is the source project file, editable with [Pixel Font Maker](https://exqt.github.io/pixel-font-maker/).
+- The .pfp files are the source project files, editable with [Pixel Font Maker](https://exqt.github.io/pixel-font-maker/).
 
 
 
@@ -55,7 +55,7 @@ For details, please refer to the [original OFL 1.1 text](/LICENCE).
 
 ## Credits
 
-### Design & Production
+### Redesign & Production
 [@Mushsooni](https://github.com/mushsooni)
 
 
@@ -91,7 +91,7 @@ Outline editing, OpenType & Webfont generation: [FontForge](https://fontforge.or
 
 ## Legal Notices
 This project is not affiliated with the original creators of the referenced fonts (DungGeunMo, Galmuri, Yoon px Arcade, etc.).  
-This font was created in compliance with relevant Korean laws regarding copyright and design protection<sup>[[3]](https://www.law.go.kr/법령/저작권법) [[4]](https://www.law.go.kr/법령/디자인보호법)</sup>과 [judicial precedents](https://www.law.go.kr/LSW/precInfoP.do?evtNo=94누5632), and the licenses of the referenced fonts.  
+This font was created in compliance with relevant Korean laws regarding copyright and design protection<sup>[[3]](https://www.law.go.kr/법령/저작권법) [[4]](https://www.law.go.kr/법령/디자인보호법)</sup>, [judicial precedents](https://www.law.go.kr/LSW/precInfoP.do?evtNo=94누5632), and the licenses of the referenced fonts.  
 
 
 
