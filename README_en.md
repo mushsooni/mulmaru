@@ -10,7 +10,7 @@
 **Mulmaru** is a font project born from the need for better typography in Korean pixel game localization.
 
 While working on Korean translations for games, I often struggled to find a font that matched the aesthetic of the original titles.  
-I felt there was a gap in the available options: existing fonts were either too large (like the 16px DungGeunMo<sup>[[1]](https://cactus.tistory.com/193) [[2]](https://neodgm.dalgona.dev/)</sup> or, if smaller, lacked the necessary weight or readability like [Galmuri](https://quiple.dev/galmuri).
+I felt there was a gap in the available options: existing fonts were either too large (like the 16px DungGeunMo<sup>[[1]](https://cactus.tistory.com/193) [[2]](https://neodgm.dalgona.dev/)</sup>) or, if smaller, lacked the necessary weight or readability like [Galmuri](https://quiple.dev/galmuri).
 
 After discovering [Pixel Font Maker](https://exqt.me/posts/pixel-font-maker) by exqt, I decided to create the font I had always envisioned.
 ![02_intro](images/02_intro.png)
@@ -97,3 +97,4 @@ This font was created in compliance with relevant Korean laws regarding [copyrig
 
 ## Contact
 If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [open an Issue](https://github.com/mushsooni/mulmaru/issues).
+
