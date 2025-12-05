@@ -56,7 +56,7 @@ For details, please refer to the [original OFL 1.1 text](/LICENSE).
 ## Credits
 
 ### Redesign & Production
-[@Mushsooni](https://github.com/mushsooni)
+[@mushsooni](https://github.com/mushsooni)
 
 
 ### Special Thanks
@@ -97,5 +97,6 @@ This font was created in compliance with relevant Korean laws regarding [copyrig
 
 ## Contact
 If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [open an Issue](https://github.com/mushsooni/mulmaru/issues).
+
 
 
