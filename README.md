@@ -56,7 +56,7 @@
 ## 크레딧
 
 ### 리디자인 및 제작
-[@Mushsooni](https://github.com/mushsooni)
+[@mushsooni](https://github.com/mushsooni)
 
 
 ### 도움 주신 분
@@ -98,3 +98,4 @@
 ## 문의
 
 내려받은 폰트 파일에 문제가 있거나, 추가되었으면 하는 글자나 기타 의견이 있는 경우 [Issues](https://github.com/mushsooni/mulmaru/issues)에 문의를 남겨주세요.
+
