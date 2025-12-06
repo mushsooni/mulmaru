@@ -78,7 +78,7 @@ Outline editing, OpenType & Webfont generation: [FontForge](https://fontforge.or
 #### Japanese & Chinese characters
 [PixelMplus](https://github.com/itouhiro/PixelMplus) by itouhiro and M+ FONTS PROJECT  
 
-#### English, Numbers, Symbols & Others
+#### Alphabets, Numbers, Symbols & Others
 [Fixedsys Excelsior](https://github.com/kika/fixedsys) by Kirill Pertsev  
 [Pixel Operator](https://www.dafont.com/pixel-operator.font) by Jayvee Enaguas (HarvettFox96)  
 [Galmuri](https://github.com/quiple/galmuri) by Lee Minseo  
@@ -97,6 +97,7 @@ This font was created in compliance with relevant Korean laws regarding [copyrig
 
 ## Contact
 If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [open an Issue](https://github.com/mushsooni/mulmaru/issues).
+
 
 
 
