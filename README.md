@@ -38,47 +38,7 @@
 ## 지원 글자
 **총 11,937자**  
 (한글 음절 11,172자 / ASCII 95자 /  
-한글 호환용 자모 51자 / 라틴-1 보충 77자 / 그리스 문자 및 콥트 문자 49자 / 키릴 문자 65자 / 히라가나 88자 / 가타카나 90자 / 한중일 통합 한자 7자 / 기타 특수문자 243자)
-![05_list](images/05_list.png)
-전체 글자 목록은 [이곳](/character-list.txt)을 참고하세요.  
-
-
-
-## 라이선스
-
-물마루는 [SIL 오픈 폰트 라이선스(OFL 1.1)](https://openfontlicense.org/)로 배포됩니다.  
-상업적 또는 비상업적 용도로 자유롭게 사용·수정·임베딩·재배포할 수 있습니다. 단, 폰트만을 단독으로 판매하는 행위는 금지됩니다.
-
-라이선스 전문은 [OFL 1.1 원문](/LICENCE) 또는 [한국어 번역본](/LICENCE_ko)을 참고하세요.  
-
-
-
-## 크레딧
-
-### 리디자인 및 제작
-[@mushsooni](https://github.com/mushsooni)
-
-
-### 도움 주신 분
-[@Snowyegret](https://github.com/snowyegret23)
-
-
-### 사용한 도구
-비트맵 폰트 편집 및 TrueType 윤곽선 폰트 생성: [Pixel Font Maker](https://github.com/exqt/pixel-font-maker) by exqt  
-윤곽선 폰트 편집 및 OpenType, 웹폰트 추가: [FontForge](https://fontforge.org/en-US/) by George Williams and the FontForge Project contributors
-
-
-### 참고한 폰트
-
-#### 한글
-[둥근모꼴](https://ith.kr/about/font.html) by 김중태  
-[Galmuri](https://quiple.dev/galmuri) by Lee Minseo  
-[Yoon px 아케이드](https://yoondesign.com/36/?bmode=view&idx=157562150) by YOONDESIGN  
-
-#### 일본어 및 한자
-[PixelMplus](https://github.com/itouhiro/PixelMplus) by itouhiro and M+ FONTS PROJECT  
-
-#### 영어, 숫자, 특수문자 및 기타 언어
+한글 호환용 자모 51자 / 라틴-1 보충 77자 / 그리스 문자 및 콥트 문자 49자 / 키릴 문자 65자 / 히라가나 88자 / 가타카나 90자 /벳, 숫자, 특수문자 및 기타 언어
 [Fixedsys Excelsior](https://github.com/kika/fixedsys) by Kirill Pertsev  
 [Pixel Operator](https://www.dafont.com/pixel-operator.font) by Jayvee Enaguas (HarvettFox96)  
 [Galmuri](https://quiple.dev/galmuri) by Lee Minseo  
@@ -98,4 +58,5 @@
 ## 문의
 
 내려받은 폰트 파일에 문제가 있거나, 추가되었으면 하는 글자나 기타 의견이 있는 경우 [Issues](https://github.com/mushsooni/mulmaru/issues)에 문의를 남겨주세요.
+
 
